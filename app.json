@@ -23,7 +23,11 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.hamzadar.Project",
+      "config": {
+        "googleMaps": { "apiKey": "AIzaSyBz5ghae4swyusPfnlmxeMa4XBb3pNFnjc" }   
+     }
     },
     "web": {
       "favicon": "./assets/favicon.png"
